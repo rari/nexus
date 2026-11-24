@@ -7,19 +7,19 @@ Feel free to add my web ring button to your own Stardew Valley fansite, mod page
 ### BBCode
 
 ```bbcode
-[url=https://www.nexusmods.com/profile/JennaJuffuffles][img]https://raw.githubusercontent.com/rari/nexus/refs/heads/main/Assets/button_jennajuffuffles.gif[/img][/url]
+[url=https://www.nexusmods.com/games/stardewvalley/collections/tckf0m][img]https://raw.githubusercontent.com/rari/nexus/refs/heads/main/Assets/button_jennajuffuffles.gif[/img][/url]
 ```
 
 ### Markdown
 
 ```markdown
-[![JennaJuffuffles](https://raw.githubusercontent.com/rari/nexus/refs/heads/main/Assets/button_jennajuffuffles.gif)](https://www.nexusmods.com/profile/JennaJuffuffles)
+[![JennaJuffuffles](https://raw.githubusercontent.com/rari/nexus/refs/heads/main/Assets/button_jennajuffuffles.gif)](https://www.nexusmods.com/games/stardewvalley/collections/tckf0m)
 ```
 
 ### HTML
 
 ```html
-<a href="https://www.nexusmods.com/profile/JennaJuffuffles">
+<a href="https://www.nexusmods.com/games/stardewvalley/collections/tckf0m">
   <img src="https://raw.githubusercontent.com/rari/nexus/refs/heads/main/Assets/button_jennajuffuffles.gif" alt="JennaJuffuffles">
 </a>
 ```
